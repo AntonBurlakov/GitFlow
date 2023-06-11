@@ -1,8 +1,6 @@
 def func(word):
     """
-
-    :param word:
-    :return:
+    13213
     """
 
     return word.upper()
