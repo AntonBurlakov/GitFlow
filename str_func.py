@@ -1,5 +1,10 @@
 def func(word):
-    """ Функция больших букв"""
+    """
+
+    :param word:
+    :return:
+    """
+
     return word.upper()
 
 
